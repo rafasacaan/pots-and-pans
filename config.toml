@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://rafasacaan.github.io/pots-and-pans/'
 languageCode = 'en-us'
 title = 'pots and pans.'
 theme ="PaperMod"
@@ -24,4 +24,4 @@ ShowToc = false
 
 [params.homeInfoParams]
 Title = "🍯 & 🍳 "
-Content = "welcome! this is an attempt to write a **humble blog**, as a way to capture code in **pots**, and experiment using **pans**."
+Content = "[BETA] welcome! this is an attempt to write a **humble blog**, as a way to capture code in **pots**, and experiment using **pans**."

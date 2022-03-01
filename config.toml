@@ -1,0 +1,27 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'pots and pans.'
+theme ="PaperMod"
+
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = true
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+ShowShareButtons = false
+ShowReadingTime = true
+displayFullLangName = false
+ShowPostNavLinks = false
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = false
+
+[params.homeInfoParams]
+Title = "🍯 & 🍳 "
+Content = "welcome! this is an attempt to write a **humble blog**, as a way to capture code in **pots**, and experiment using **pans**."

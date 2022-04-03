@@ -56,4 +56,13 @@ Now, we can do the following:
 
 Also, if we need to run an existing project, we can do `poetry init` to create the *.toml* file.
 
+## Sharing is caring
+
+Now, we can export our conda env, which was managed by poetry.
+
+```bash
+conda env export > environment.yml
+```
+With this file, we can recreate our environment with conda and run `poetry install` to get things up and running.
+
 Easy as a-b-c.

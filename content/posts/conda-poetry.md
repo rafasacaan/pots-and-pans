@@ -6,6 +6,8 @@ draft: True
 
 Whenever starting a new project, it is good to get started as nice and easy as possible. The fundamental bricks for this task is to generate an environment and a basic tree of files and directories. And of course, the necessary tools to keep things working from then on.
 
+What else? We can treat our projects as packages right away, and get an awesome package manager such as poetry.
+
 ## Conda, the environment-maker-manager.
 
 Let´s create the most basic python environment, where the most important thing is to have a defined working python version. To do this, we can create a conda lite-weight environment from the following *.yaml* file:

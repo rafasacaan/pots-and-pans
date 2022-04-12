@@ -66,3 +66,10 @@ conda env export > environment.yml
 With this file, we can recreate our environment with conda and run `poetry install` to get things up and running.
 
 Easy as a-b-c.
+
+## Note!
+
+Something that helped a lot, was to restrict the space of python versions compatibility. I did this in the **pyproject.toml** file:
+```
+python = ">=3.8,<3.9"
+```

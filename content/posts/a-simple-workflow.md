@@ -1,5 +1,5 @@
 ---
-title:  "Workflow with sklearn"
+title:  "workflows with sklearn"
 date: 2022-04-11T11:00:00-03:00
 draft: True
 params:

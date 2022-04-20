@@ -1,5 +1,5 @@
 ---
-title: "Conda + Poetry"
+title: "conda + poetry"
 date: 2022-02-03T15:01:59-03:00
 draft: True
 ---
